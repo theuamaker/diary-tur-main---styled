@@ -4,11 +4,11 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-track {
-    background: #0F172A;        /* izleyici bölgesinin rengi */
+    background: #ffffff;        /* izleyici bölgesinin rengi */
   }
   
   body::-webkit-scrollbar-thumb {
-    background-color: rgba(30, 41, 59, 0.4);    /* kaydırma çubuğunun rengi */
+    background-color: rgba(30, 41, 59, 0.616);    /* kaydırma çubuğunun rengi */
     border-radius: 20px;       /* kaydırma çubuğunun yuvarlaklığı */
     border: none;
   }
@@ -172,7 +172,7 @@ ul {
     border-radius: 10px;
     padding: 10px;
     height: 30px;
-    color: #F8FAFC;
+    color: #000000;
     font: inherit;
     border: none;
     width: 94%;
@@ -186,7 +186,7 @@ ul {
     background: #9cd1b1;
     border-radius: 10px;
     padding: 10px;
-    color: #F8FAFC;
+    color: #000000;
     font: inherit;
     border: none;
     width: 94%;
